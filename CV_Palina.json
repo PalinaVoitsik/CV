@@ -1,26 +1,30 @@
 {
-  "profile": {
-    "name": "Palina",
-    "secondName": "Voitsik",
-    "age": 24,
-    "gender": "female",
-    "height": 156,
-    "weight": 50,
-    "sige": 44,
-    "righthanded": true,
-    "hobbies": ["anime", "games","eat"],
-    "label": "QA-Engenier",
-    "email": "voytskip@gmail.com",
-    "phone": "(29)166-89-67",
-    "summary": null,
-    "location": [{
-      "city": "Mahilyow",
-      "zip": "212015",
-      "street": "Budawnikow"
-    }],
-  },
-  "education": [{
-    "institution": "College",
-    "area": "Software Development",
-  }]
+   "profile":{
+      "name":"Palina",
+      "secondName":"Voitsik",
+      "age":24,
+      "gender":"female",
+      "height":156,
+      "weight":50,
+      "sige":44,
+      "righthanded":true,
+      "hobbies":[
+         "anime",
+         "games",
+         "eat"
+      ],
+      "label":"QA-Engenier",
+      "email":"voytskip@gmail.com",
+      "phone":"(29)166-89-67",
+      "summary":null,
+      "location":[{
+            "city":"Mahilyow",
+            "zip":"212015",
+            "street":"Budawnikow"
+         }]
+   },
+   "education":[{
+         "institution":"College",
+         "area":"Software Development"
+      }]
 }
